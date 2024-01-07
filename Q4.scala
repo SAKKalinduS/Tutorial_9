@@ -3,7 +3,7 @@ object Q4 {
     private var balance: Double = initial
 
     def getBalance: Double = balance
-
+hhhhhhhhgit 
     def applyInterest(): Unit = {
       if (balance > 0) {
         balance += balance * 0.05
