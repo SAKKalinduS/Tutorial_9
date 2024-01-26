@@ -1,2 +1,0 @@
-s andnjknak 
-ass
